@@ -1,0 +1,7 @@
+scatter.html
+funds.ipynb
+bollinger.ipynb
+/data
+.venv
+__pycache__
+.DS_Store
